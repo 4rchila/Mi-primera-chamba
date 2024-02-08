@@ -1,2 +1,7 @@
-# Mi-primera-chamba
- Repositorio de github de la clase de introduccion de ingenieria  
+# Mi-Primer-Repo
+ Repositorio de github de la clase de introduccion de ingenieria 
+
+## Integrantes
++ German Archila 
++ Leonor Rosales
++ Mily Santay
